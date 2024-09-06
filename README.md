@@ -18,7 +18,6 @@ Foi de suma importancia pois pude exercitar a importação de pacotes, UML e POO
 - 📚 Conhecimento em Python Básico 🐍
 
 - 📚 Estudando Linguagem de Programações Java 🏦
-- 
 - 📚 Estudando banco de dados SQL☕
 
 
